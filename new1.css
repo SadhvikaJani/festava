@@ -1,0 +1,470 @@
+.font{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.sadhvi{
+    margin-left: 500px;
+}
+
+.nav-link{
+    margin-left: 50px;
+}
+
+.container-fluid{
+    background-color: #F8CB2E;
+    color: white;
+    margin-top: -15px;
+    height: 70px;
+}
+.inti{
+    background-color: black;
+   
+}
+
+.inti span i{
+    color: white;
+}
+
+.card-img-overlay{
+margin-top: 150px;
+text-align: center;
+}
+.card-img-overlay h1{
+    font-size: 50px;
+}
+.card-img-overlay h5{
+    font-size: 30px;
+}
+
+button{
+
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    color: #F0F8FF;
+    background-color: #EE5007;
+}
+.cl{
+    margin-top: 250px;
+    color: white;
+    font-size: 18px;
+}
+.cl i{
+    color: #EE5007;
+}
+.cl2 {
+    margin-left: 380px;
+}
+.cl3 {
+    margin-left: 450px;
+}
+ .card-img {
+    width: 100%;
+    height: 2000px;
+} 
+.sadhvi1{
+    background-image: url(images-583/images/edward-unsplash-blur.jpg);
+    width: 100%;
+    height: 550px;
+    padding-top: 100px;
+}
+.sadhvi1 img{
+    width: 550px;
+    height: 350px;
+}
+.lok0{
+    margin-top: 70px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:1000px ;
+}
+.lok1 img{
+    margin-top: 40px;
+}
+.lok2 img{
+    margin-top: 40px;
+}
+.sadhvi2{
+    margin-left: 1000px;
+}
+
+.col3 img{
+    margin-left: 667px;
+    margin-top: -500px;
+}
+
+.table{
+    width: 1320px;
+    height: 835px;
+    margin-left: 70px;
+    margin-top: 100px;
+
+}
+/* .add1{
+    width: 269px;
+    height: 84px;
+
+} */
+.h2sub2{
+    color: white;
+    margin-top: 70px;
+    text-align: center;
+    font-size: 25px;
+}
+.h2sub1{
+    color: white;
+    margin-top: 70px;
+    text-align: center;
+    font-size: 25px;
+}
+.sravs tr th{
+    background-color: #EE5007;
+    text-align: center;
+    padding-bottom: 30px;
+    color: white;
+}
+.date{
+    width: 100px;
+    height: 84px;
+}
+.date1{
+    width: 445px;
+    height: 84px;
+}
+.date2{
+    width: 312px;
+    height: 84px;
+}
+.date3{
+    width: 367px;
+    height: 84px;
+}
+
+.date4{
+    width: 445px;
+    height: 185px;
+}
+.jani1{
+    width: 100%;
+    height: 190px;
+}
+
+.jani2{
+    margin-top: 50px;
+}
+.im1 img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 205px;
+    width: 380px;
+    position: absolute;
+    margin-top: -7px;
+}
+.im2{
+    position: relative;
+    color:white;
+    text-align: center;
+    padding-top: 50px
+}
+.sadhvi11{
+    background-image: url(images-583/images/nainoa-shizuru-unsplash-blur.jpg);
+    width: 100%;
+    height: 1000px;
+     margin-top: -100px;
+     border-radius: 10px;
+    
+    
+}
+
+.jani22{
+    margin-top: 200px;
+    padding-top: 10px;
+    
+}
+
+
+
+.br1{
+    border: 5px dotted black;
+    height: 366px;
+    width: 636px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 30px;
+
+}
+.br{
+   height: 660px;
+   width: 100%; 
+   background-color: #F0F8FF;
+   margin-top: 100px;
+}
+ 
+.br0 h1{
+    text-align: center;
+padding-top: 50px;
+}
+.br11{
+     float: left;  
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.br12{
+    margin-left: 250px;
+    padding-top: 25px;
+    font-size: 25px;
+
+}
+.kar{
+margin-left: 40px;
+}
+.br00{
+float: left;
+
+}
+.kar1{
+    margin-left: 470px;
+    padding-top: 25px;
+    margin-top: 25px;
+    text-align: center;
+    border: 2px solid transparent;
+    background-color: #EE5007;
+    color: white;
+height: 100px;
+width: 100px;
+border-radius: 60px;
+
+}
+.add0{
+    margin-left: 20px;
+    float: left;
+    margin-top: 30px;
+    color: #717275;
+}
+.add1{
+    margin-left: 300px;
+    margin-top: 30px;
+    color: #717275;
+
+}
+.add2{
+    margin-left: 50px;
+    margin-top: 50px;
+    color: #F8CB2E;
+    border-bottom: 1px solid #F8CB2E ;
+    width: 100px;
+}
+.devi{
+    float: left;
+}
+.aru0{
+    margin-left:600px;
+    margin-top: -50px;
+
+
+}
+.br2{
+    border: 5px dotted black;
+    height: 450.6px;
+    width: 636px;
+    border-radius: 10px;
+    padding-top: 1000px;
+    color: #717275;
+}
+.cha1{
+text-align: center;
+margin-top: 50px;
+}
+.cha2{
+    border: 2px solid transparent;
+    width: 500px;
+    height: 100px;
+    border-radius: 50px; 
+    margin-left: 500px; 
+    margin-top: 20px;
+    background-color: #F0F8FF;
+}
+.cha3 button {
+    border: #F0F8FF;
+    margin-left: 70px;
+    margin-top: 28px;
+    border-radius: 50px;
+    width: 151px;
+    height: 48px;
+    color: #F8CB2E;
+    float: left;
+    background-color: white;
+    font-size: larger;
+
+}
+.cha4 {
+margin-left: 300px;
+margin-top: 35px;
+color: #717275;
+font-size: larger;
+
+}
+.form{
+    border: 1px solid transparent;
+    width: 855px;
+    height: 435px;
+    background-color:#F0F8FF;
+    margin-left: 320px;
+    margin-top: 60px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 1px;
+}
+.form1{
+    float: left;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.form2{
+    margin-left: 450px;
+    margin-top:40px ;
+}
+.form3{
+    margin-left:50px ;
+    margin-top:40px;
+}
+.form3 input{
+    width: 765px;
+    height: 51px;
+}
+.form1 input{
+    width:370px;
+    height: 51px;
+}
+.form2 input{
+    width: 370px;
+    height: 51px;
+}
+.form4 textarea{
+    width: 760px;
+    height: 111px;
+    margin-left: 50px;
+    margin-top: 30px;
+    color: #757174;
+}
+.form5{
+    border: 1px solid transparent;
+    width: 255px;
+    height: 53px;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 50px;
+    background-color: #EE5007;
+    color: #F0F8FF;
+}
+.footer{
+    background-color: #EE5007;
+    height: 110px;
+    margin-top: 30px;
+
+}
+.footer1{
+    padding-top: 23px;
+    color: white;
+}
+
+.footer2{
+    margin-left: 800px;
+    color: white;
+}
+.ft11{
+    margin-left: 200px;
+}
+.vd{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.vd0{
+    float: left;
+}
+.vd1{
+    padding-top: 70px;
+    margin-left: 40px;
+    color: #F8CB2E;
+}
+.vd2{
+    margin-left: 10px;
+}
+.vd3{
+    margin-left: 250px;
+    padding-top: 70px;
+    float: left;
+}
+.vd4 h2{
+    color: #F8CB2E;
+}
+.vd5{
+    margin-left: 1100px;
+    padding-top:70px ;
+}
+.vd6 h2{
+    color: #F8CB2E;
+}
+.vd7{
+    padding-top: 40px;
+    color: #757174;
+}
+tbody .td0{
+    width: 445px;
+    height: 185px;
+    background-image: url(images-583/images/artists/unsplashmain1crop.jpg);
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+
+}
+ tbody .td1{
+    background-color: #F3DCD4;
+}
+tbody .td11{
+    text-align: center;
+    padding-top: 35px;
+    color: white;
+    background-image: url(images-583/images/artists/unsplash0crop.jpg);
+}
+ tbody .td2{
+     background-color: #ECC9C7;
+     width: 445px ;
+     height:185px ;
+    
+}
+tbody .td3{
+    background-color: #212529;
+    width: 312px;
+    height: 185px;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+tbody .td4{
+    background-color: #D9E3DA;
+}
+tbody .td5
+{
+    width: 445px;
+    height: 185px;
+    background-image: url(images-583/images/artists/soundtrap-rAT6FJ6wltE-unsplash.jpg);
+
+}
+tbody .td6{
+    background-color: #D1CFC0;
+}
+tbody .td7{
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+tbody tr th.scope{
+    width: 145px;
+    background-color: #212529;
+    color: white;
+    text-align: center;
+}
+
